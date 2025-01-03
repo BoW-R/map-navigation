@@ -1,0 +1,2 @@
+# map-navigation
+这是一个利用高德地图api制作的基于PyQt的地图导航软件，这是我们python课的期末汇报大作业
