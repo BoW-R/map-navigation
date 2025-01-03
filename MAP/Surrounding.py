@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2025/1/1 10:50
-# @Author  : Li Xinran
-# @Software: PyCharm 
-# @Comment :
 from PyQt5.QtWidgets import QDialog, QVBoxLayout, QTextEdit, QPushButton
 
 class SurroundingInfoWindow(QDialog):
